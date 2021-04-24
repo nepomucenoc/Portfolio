@@ -5,11 +5,12 @@
 
 
 # Ana Carolina Nepomuceno Costa
-<sub>Master's student in Modeling and Quantitative Methods at Universidade Federal do Ceará - UFC</sub>
+<sub>Master's student in Modeling and Quantitative Methods at the Federal University of Ceará - UFC</sub>
 
-As an experienced in teaching mathematics in schools, so I have communications skills.
+As an experienced in teaching mathematics in schools, I have communications skills.
 
-My credentials include a Master's in progress in Modeling and Quantitative Methods at Universidade Federal do Ceará (UFC), a postgraduate in mathematics teaching in high school and a graduate in mathematics.
+My credentials include a Master's in progress in Modeling and Quantitative Methods at the Federal University of Ceará (UFC), a postgraduate in mathematics teaching in high school at the State University of Ceara (UECE) and a graduate in mathematics at Federal Institute of Education, Science and
+Technology of Ceará State (IFCE).
 
 Surching for new remote jobs with data science and Machine Learning using python laguage.
 
