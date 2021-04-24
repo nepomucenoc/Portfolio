@@ -1,34 +1,29 @@
 [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
-<p align="center">
-  <img src="carolbanner.png" width="200"/>
-</p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+  <img src="carolbanner.png" width="600"/>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+# Ana Carolina Nepomuceno Costa
+<sub>Master's student in Modeling and Quantitative Methods at Universidade Federal do Ceará - UFC</sub>
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+As an experienced in teaching mathematics in schools, so I have communications skills.
+
+My credentials include a Master's in progress in Modeling and Quantitative Methods at Universidade Federal do Ceará (UFC), a postgraduate in mathematics teaching in high school and a graduate in mathematics.
+
+Surching for new remote jobs with data science and Machine Learning using python laguage.
+
+**Background in:** Python, and Machine Learning
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](www.linkedin.com/in/anacarolinanepomuceno)
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+## Projects:
+Below are the codes that I've made:
+
+
 
 ---
 
