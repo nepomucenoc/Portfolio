@@ -16,7 +16,7 @@ I am searching for new remote jobs with Data Science and Machine Learning using 
 **Background in:** Python, and Machine Learning
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/anacarolinanepomuceno)
+* [LinkedIn](https://www.linkedin.com/in/anacarolinanepomuceno/?locale=en_US)
 
 
 
