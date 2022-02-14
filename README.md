@@ -26,7 +26,9 @@ I am searching for new remote jobs with Data Science and Machine Learning using 
 Below are the codes that I've made:
 
 Customer Segmentation in Sample Sales Data: https://bityli.com/XMOjg
+
 Heart Attack prediction analysis (in portuguese): https://bityli.com/NXBKm
+
 Heart Attack prediction analysis with bias (in portuguese): https://bityli.com/qycRu
 
 
