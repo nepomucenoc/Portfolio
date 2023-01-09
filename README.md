@@ -25,11 +25,13 @@ I am searching for new remote jobs with Data Science and Machine Learning using 
 ## Projects:
 Below are the codes that I've made:
 
-**Customer Segmentation in Sample Sales Data:** https://bityli.com/XMOjg
+**Customer Segmentation in Sample Sales Data:** https://github.com/nepomucenoc/modelagem/blob/main/Final_Sales_clustering.ipynb
 
-**Heart Attack prediction analysis (in portuguese):** https://bityli.com/NXBKm
+**Heart Attack prediction analysis (in portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack.ipynb
 
-**Heart Attack prediction analysis with bias (in portuguese):** https://bityli.com/qycRu
+**Heart Attack prediction analysis with bias (in portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack_com_incerteza.ipynb
+
+**Map graphics with python using the Folium library:** https://github.com/nepomucenoc/modelagem/blob/main/Graphics_with_folium.ipynb
 
 
 
