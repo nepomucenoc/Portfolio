@@ -6,7 +6,7 @@
 
 
 
-# Ana Carolina Nepomuceno Costa
+# pushpin Ana Carolina Nepomuceno Costa
 <sub>Master's student in Modeling and Quantitative Methods at the Federal University of Ceará - UFC</sub>
 
 I have experience in teaching mathematics in schools, so I have communication skills.
