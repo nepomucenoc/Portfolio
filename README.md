@@ -6,8 +6,8 @@
 
 
 
-# Ana Carolina Nepomuceno Costa
-<sub>Master's student in Modeling and Quantitative Methods at the Federal University of Ceará - UFC</sub>
+# :sparkles: Ana Carolina Nepomuceno Costa
+<sub>Master's student in Modeling and Quantitative Methods at the Federal University of Ceara - UFC</sub>
 
 I have experience in teaching mathematics in schools, so I have communication skills.
 
@@ -15,27 +15,32 @@ My academic formation includes a Master's in progress in Modeling and Quantitati
 
 I am searching for new remote jobs with Data Science and Machine Learning using python language.
 
+* :large_blue_diamond: [LinkedIn](https://www.linkedin.com/in/anacarolinanepomuceno/?locale=en_US)
+* :mailbox_with_mail: **Contact:** carolina.nep@gmail.com;
+* :bar_chart: **Main stacks:** Analysis with Tableau, Data Science and Machine Learning using Python;
+* :bulb: **Experience:** 3 years with a Math teacher and 1 year with Data Science, Analytics;
+* :books: **Main Libs in Python:** Pandas, Numpy, SciPy, Seaborn, Matplotlib, Skitplot, and Scikit-learn.
+
 **Background in:** Python, and Machine Learning
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/anacarolinanepomuceno/?locale=en_US)
-
-
-
-## Projects:
+## :bell: Projects:
 Below are the codes that I've made:
 
-**Customer Segmentation in Sample Sales Data:** https://github.com/nepomucenoc/modelagem/blob/main/Final_Sales_clustering.ipynb
+:white_check_mark: **Customer Segmentation in Sample Sales Data:** 
+https://github.com/nepomucenoc/modelagem/blob/main/Final_Sales_clustering.ipynb
 
-**Heart Attack prediction analysis (in portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack.ipynb
+:white_check_mark: **Heart Attack prediction analysis (in portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack.ipynb
 
-**Heart Attack prediction analysis with bias (in portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack_com_incerteza.ipynb
+:white_check_mark: **Heart Attack prediction analysis with bias (in portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack_com_incerteza.ipynb
 
-**Map graphics with python using the Folium library:** https://github.com/nepomucenoc/modelagem/blob/main/Graphics_with_folium.ipynb
+:white_check_mark: **Map graphics with python using the Folium library:** 
+https://github.com/nepomucenoc/modelagem/blob/main/Graphics_with_folium.ipynb
 
-**Distance Matrix between geographic coordinates:** https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
+:white_check_mark: **Distance Matrix between geographic coordinates:** 
+https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
  
-**Measure of Similarity Between Texts - Containment:** https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
+:white_check_mark: **Measure of Similarity Between Texts - Containment:** 
+https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
  
 
 
