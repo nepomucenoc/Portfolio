@@ -11,7 +11,9 @@
 
 I have experience in teaching mathematics in schools, so I have communication skills.
 
-My academic formation includes a Master's in progress in Modeling and Quantitative Methods at the Federal University of Ceará (UFC), a postgraduate in mathematics teaching in high school at the State University of Ceara (UECE), and a graduate in mathematics at Federal Institute of Education, Science and Technology of Ceará State (IFCE).
+My academic formation includes a Master's in progress in Modeling and Quantitative Methods at the Federal University of Ceará (UFC), a postgraduate in mathematics teaching in high school at the State University of Ceara (UECE), and a graduate in mathematics at Federal Institute of Education, Science and Technology of Ceará State (IFCE). I am a certificate in Artificial Intelligence from Huawei and Microsoft Azure. I have experience with Data Science and Data Analytics. I am searching for remote jobs in Data Science and MachineLearning using python language.
+
+I know about Statistics, Python, Machine Learning, BI, and MLOps for Data Science.
 
 I am searching for new remote jobs with Data Science and Machine Learning using python language.
 
