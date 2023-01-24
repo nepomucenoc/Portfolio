@@ -34,7 +34,9 @@ Below are the codes that I've made:
 **Map graphics with python using the Folium library:** https://github.com/nepomucenoc/modelagem/blob/main/Graphics_with_folium.ipynb
 
 **Distance Matrix between geographic coordinates:** https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
-
+ 
+**Measure of Similarity Between Texts - Containment:** https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
+ 
 
 
 ---
