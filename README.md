@@ -45,10 +45,10 @@ https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
 https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
 
 :white_check_mark: **Image Classifier - Study Case - Part 1: Segmentation:**
-https://github.com/nepomucenoc/modelagem/blob/main/image_classifier_seg_text.ipynb
+https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_case1.ipynb
 
 :white_check_mark: **Image Classifier - Study Case - Part 2: Segmentation with deep learning:**
-https://github.com/nepomucenoc/modelagem/blob/main/segmentation_image_case2.ipynb
+https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_case2.ipynb
 
 ---
 
