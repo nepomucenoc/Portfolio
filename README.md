@@ -7,7 +7,7 @@
 
 
 # :sparkles: Ana Carolina Nepomuceno Costa
-<sub>Ms in Modeling and Quantitative Methods at the Federal University of Ceara - UFC</sub>
+<sub>Ms Modeling and Quantitative Methods at the Federal University of Ceara - UFC</sub>
 
 I have experience in teaching mathematics in schools, so I have communication skills.
 
