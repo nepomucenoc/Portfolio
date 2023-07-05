@@ -44,6 +44,9 @@ https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
 :white_check_mark: **NLP - Measure of Similarity Between Texts - Containment:** 
 https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
 
+:white_check_mark: **NLP - Predict whether News is Fake or not:** 
+https://github.com/nepomucenoc/nlp_fake_news/blob/main/NLP_fake_news_deploy.ipynb
+
 :white_check_mark: **Image Classifier - Study Case - Part 1: Segmentation:**
 https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_case1.ipynb
 
