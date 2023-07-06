@@ -53,6 +53,9 @@ https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_c
 :white_check_mark: **Image Classifier - Study Case - Part 2: Segmentation with deep learning:**
 https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_case2.ipynb
 
+:white_check_mark: **ML Classification to predict whether a Restaurant can be successful or not (using NLP and geographic tools):**
+https://github.com/nepomucenoc/classification_restaurant/blob/main/ML_Zomato_Prediction.ipynb
+
 ---
 
 
