@@ -56,6 +56,9 @@ https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_c
 :white_check_mark: **ML Classification to predict whether a Restaurant can be successful or not (using NLP and geographic tools):**
 https://github.com/nepomucenoc/classification_restaurant/blob/main/ML_Zomato_Prediction.ipynb
 
+:white_check_mark: **Streamlit project using Snowflake**
+https://github.com/nepomucenoc/first_streamlit_app/tree/main
+
 ---
 
 
