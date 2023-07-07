@@ -33,7 +33,7 @@ https://github.com/nepomucenoc/modelagem/blob/main/Final_Sales_clustering.ipynb
 
 :white_check_mark: **Heart Attack prediction analysis with bias (in Portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack_com_incerteza.ipynb
 
-:white_check_mark: **Apache Spark Project - Heart Attack Prediction Project in Apache Spark Machine Learning** 
+:white_check_mark: **Apache Spark Project - Heart Attack Prediction Project in Apache Spark Machine Learning:** 
 https://github.com/nepomucenoc/heart_attack_prediction_apache_spark/tree/main
 
 :white_check_mark: **Map graphics with Python using the Folium library:** 
