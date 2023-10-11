@@ -60,6 +60,9 @@ https://github.com/nepomucenoc/classification_restaurant/blob/main/ML_Zomato_Pre
 :white_check_mark: **Streamlit project using Snowflake:**
 https://github.com/nepomucenoc/first_streamlit_app/tree/main
 
+:white_check_mark: **Sales Analysis with PySpark - Exploring Agriculture Sales Data:**
+https://github.com/nepomucenoc/pyspark_sales/tree/main
+
 ---
 
 
