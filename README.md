@@ -63,6 +63,9 @@ https://github.com/nepomucenoc/first_streamlit_app/tree/main
 :white_check_mark: **Sales Analysis with PySpark - Exploring Agriculture Sales Data:**
 https://github.com/nepomucenoc/pyspark_sales/tree/main
 
+:white_check_mark: **Time Series Analysis:**
+https://github.com/nepomucenoc/time-series/tree/main
+
 ---
 
 
