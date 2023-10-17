@@ -29,9 +29,7 @@ Below are the codes that I've made:
 :white_check_mark: **Customer Segmentation in Sample Sales Data:** 
 https://github.com/nepomucenoc/Customer-Segmentation/tree/main
 
-:white_check_mark: **Heart Attack prediction analysis (in Portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack.ipynb
-
-:white_check_mark: **Heart Attack prediction analysis with bias (in Portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack_com_incerteza.ipynb
+:white_check_mark: **Heart Attack prediction analysis with bias (in Portuguese):** https://github.com/nepomucenoc/classification_heart_attack/tree/main
 
 :white_check_mark: **Apache Spark Project - Heart Attack Prediction Project in Apache Spark Machine Learning:** 
 https://github.com/nepomucenoc/heart_attack_prediction_apache_spark/tree/main
