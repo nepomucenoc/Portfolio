@@ -37,7 +37,7 @@ https://github.com/nepomucenoc/modelagem/blob/main/Final_Sales_clustering.ipynb
 https://github.com/nepomucenoc/heart_attack_prediction_apache_spark/tree/main
 
 :white_check_mark: **Map graphics with Python using the Folium library:** 
-https://github.com/nepomucenoc/modelagem/blob/main/Graphics_with_folium.ipynb
+https://github.com/nepomucenoc/Folium/tree/main
 
 :white_check_mark: **Distance Matrix between geographic coordinates:** 
 https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
