@@ -43,7 +43,7 @@ https://github.com/nepomucenoc/Folium/tree/main
 https://github.com/nepomucenoc/coodinates-lat-lon
  
 :white_check_mark: **NLP - Measure of Similarity Between Texts - Containment:** 
-https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
+https://github.com/nepomucenoc/NLP-Ngrams/tree/main
 
 :white_check_mark: **NLP - Predict whether News is Fake or not:** 
 https://github.com/nepomucenoc/nlp_fake_news/blob/main/NLP_fake_news_deploy.ipynb
