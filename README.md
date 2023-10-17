@@ -27,7 +27,7 @@ I am actively seeking new opportunities in the realm of Data Science and Machine
 Below are the codes that I've made:
 
 :white_check_mark: **Customer Segmentation in Sample Sales Data:** 
-https://github.com/nepomucenoc/modelagem/blob/main/Final_Sales_clustering.ipynb
+https://github.com/nepomucenoc/Customer-Segmentation/tree/main
 
 :white_check_mark: **Heart Attack prediction analysis (in Portuguese):** https://github.com/nepomucenoc/modelagem/blob/main/Projeto_modelagem_hart_attack.ipynb
 
@@ -47,6 +47,9 @@ https://github.com/nepomucenoc/NLP-Ngrams/tree/main
 
 :white_check_mark: **NLP - Predict whether News is Fake or not:** 
 https://github.com/nepomucenoc/nlp_fake_news/blob/main/NLP_fake_news_deploy.ipynb
+
+:white_check_mark: **NLP - Word2Vec:**
+https://github.com/nepomucenoc/Word2Vec/tree/main
 
 :white_check_mark: **Image Classifier - Study Case - Part 1: Segmentation:**
 https://github.com/nepomucenoc/Image_segmentation/blob/main/segmentation_image_case1.ipynb
