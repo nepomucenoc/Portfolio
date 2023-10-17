@@ -40,7 +40,7 @@ https://github.com/nepomucenoc/heart_attack_prediction_apache_spark/tree/main
 https://github.com/nepomucenoc/Folium/tree/main
 
 :white_check_mark: **Distance Matrix between geographic coordinates:** 
-https://github.com/nepomucenoc/modelagem/blob/main/distance_matrix_lat_lng.ipynb
+https://github.com/nepomucenoc/coodinates-lat-lon
  
 :white_check_mark: **NLP - Measure of Similarity Between Texts - Containment:** 
 https://github.com/nepomucenoc/modelagem/blob/main/n_grams.ipynb
