@@ -18,7 +18,7 @@ I am actively seeking new opportunities in the realm of Data Science and Machine
 * :large_blue_diamond: [LinkedIn](https://www.linkedin.com/in/anacarolinanepomuceno/?locale=en_US)
 * :mailbox_with_mail: **Contact:** carolina.nep@gmail.com;
 * :bar_chart: **Main stacks:** Analysis with Tableau, Data Science, and Machine Learning using Python;
-* :bulb: **Experience:** 3 years with a Math teacher and 1 year with Data Science, Analytics;
+* :bulb: **Experience:** Math teacher and with Data Science, Analytics;
 * :books: **Main Libs in Python:** Pandas, Numpy, SciPy, Seaborn, Matplotlib, Skitplot, and Scikit-learn.
 
 **Background in:** Python, and Machine Learning
