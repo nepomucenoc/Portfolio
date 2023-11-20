@@ -26,6 +26,12 @@ I am actively seeking new opportunities in the realm of Data Science and Machine
 ## :bell: Projects:
 Below are the codes that I've made:
 
+:white_check_mark: **Masters Degree Dissertation:** 
+https://repositorio.ufc.br/handle/riufc/74007
+
+:white_check_mark: **Masters Degree Poster:** 
+https://drive.google.com/file/d/1X4yAtWE_12-U39orLgiMWOU4YcCGN1AZ/view
+
 :white_check_mark: **Customer Segmentation in Sample Sales Data:** 
 https://github.com/nepomucenoc/Customer-Segmentation/tree/main
 
