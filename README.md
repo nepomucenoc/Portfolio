@@ -73,6 +73,9 @@ https://github.com/nepomucenoc/pyspark_sales/tree/main
 :white_check_mark: **Time Series Analysis:**
 https://github.com/nepomucenoc/time-series/tree/main
 
+:white_check_mark: **Others projects:**
+https://www.linkedin.com/in/anacarolinanepomuceno/details/projects/
+
 ---
 
 
