@@ -76,6 +76,9 @@ https://github.com/nepomucenoc/time-series/tree/main
 :white_check_mark: **Synthetic Images Generator:**
 https://github.com/nepomucenoc/synthetic-images-generator/tree/main
 
+:white_check_mark: **How to use Thredings:**
+https://github.com/nepomucenoc/threadings/tree/main
+
 :white_check_mark: **Others projects:**
 https://www.linkedin.com/in/anacarolinanepomuceno/details/projects/
 
