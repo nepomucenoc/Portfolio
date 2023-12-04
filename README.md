@@ -23,7 +23,7 @@ I am actively seeking new opportunities in the realm of Data Science and Machine
 
 **Background in:** Python, and Machine Learning
 
-## :bell: Projects:
+## Projects:
 Below are the codes that I've made:
 
 :white_check_mark: **Masters Degree Dissertation:** 
