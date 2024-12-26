@@ -6,7 +6,7 @@
 
 
 
-# :sparkles: Ana Carolina Nepomuceno Costa
+# :sparkles: Ana Costa
 <sub>Ms Modeling and Quantitative Methods at the Federal University of Ceara - UFC</sub>
 
 My academic background includes a work-in-progress Master's degree in Modeling and Quantitative Methods at the Federal University of Ceará (UFC), a postgraduate degree in mathematics teaching for high school at the State University of Ceara (UECE), and a bachelor's degree in mathematics from the Federal Institute of Education, Science, and Technology of Ceará State (IFCE). I hold certifications in Artificial Intelligence from Huawei and Microsoft Azure. Additionally, I possess experience in Data Science and Data Analytics, and I am currently seeking remote opportunities in the field of Data Science and Machine Learning utilizing Python. Also, I have experience teaching mathematics in schools, which has enhanced my communication skills.
