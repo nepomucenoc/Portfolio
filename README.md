@@ -1,12 +1,5 @@
 ![Foto de fundo geométrico para banner de Linkedin](https://github.com/user-attachments/assets/9e34a598-685d-4a06-97b8-5c4390a6691b)
 
-
-
-  <img src="carolbanner.png" width="600"/>
-<a href="http://www.freepik.com">Designed by starline / Freepik</a>
-
-
-
 # :sparkles: Ana Costa
 <sub>Ms Modeling and Quantitative Methods at the Federal University of Ceara - UFC</sub>
 
