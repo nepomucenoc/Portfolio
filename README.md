@@ -1,4 +1,5 @@
-[![author](https://img.shields.io/badge/author-anacarolina-red)](https://www.linkedin.com/in/anacarolinanepomuceno/?locale=en_US) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/nepomucenoc)
+![Foto de fundo geométrico para banner de Linkedin](https://github.com/user-attachments/assets/9e34a598-685d-4a06-97b8-5c4390a6691b)
+
 
 
   <img src="carolbanner.png" width="600"/>
