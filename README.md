@@ -19,7 +19,7 @@ I am actively seeking new opportunities in the realm of Data Science and Machine
 ## Projects:
 Below are the codes that I've made:
 
-:white_check_mark: **Masters Degree Dissertation:** 
+:white_check_mark: **Masters Degree Dissertation (Assessment of prediction of violence against women through machine learning strategies):** 
 https://repositorio.ufc.br/handle/riufc/74007
 
 :white_check_mark: **Masters Degree Poster:** 
