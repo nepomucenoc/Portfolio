@@ -12,7 +12,7 @@ I am actively seeking new opportunities in the realm of Data Science and Machine
 * :mailbox_with_mail: **Contact:** carolina.nep@gmail.com;
 * :bar_chart: **Main stacks:** Analysis with Tableau, Data Science, and Machine Learning using Python;
 * :bulb: **Experience:** Math teacher and with Data Science, Analytics;
-* :books: **Main Libs in Python:** Pandas, Numpy, SciPy, Seaborn, Matplotlib, Skitplot, and Scikit-learn.
+* :books: **Main Libs in Python:** Pandas, Numpy, SciPy, Seaborn, Matplotlib, Skitplot, Tensorflow, Pytorch, and Scikit-learn.
 
 **Background in:** Python, and Machine Learning
 
