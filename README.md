@@ -28,6 +28,9 @@ https://drive.google.com/file/d/1X4yAtWE_12-U39orLgiMWOU4YcCGN1AZ/view
 :white_check_mark: **GCP DevOps Project:**
 https://github.com/nepomucenoc/gcp-devops-project
 
+:white_check_mark: **Lightweight RAG Demo with Simulated LoRA & TinyLLM Optimizations:**
+https://github.com/nepomucenoc/EdgeRAG
+
 :white_check_mark: **Customer Segmentation in Sample Sales Data:** 
 https://github.com/nepomucenoc/Customer-Segmentation/tree/main
 
