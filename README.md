@@ -31,6 +31,9 @@ https://github.com/nepomucenoc/gcp-devops-project
 :white_check_mark: **Lightweight RAG Demo with Simulated LoRA & TinyLLM Optimizations:**
 https://github.com/nepomucenoc/EdgeRAG
 
+:white_check_mark: **BERT Masked Language Modeling (MLM):**
+https://github.com/nepomucenoc/MLM
+
 :white_check_mark: **Customer Segmentation in Sample Sales Data:** 
 https://github.com/nepomucenoc/Customer-Segmentation/tree/main
 
