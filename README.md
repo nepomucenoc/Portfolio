@@ -28,6 +28,9 @@ https://drive.google.com/file/d/1X4yAtWE_12-U39orLgiMWOU4YcCGN1AZ/view
 :white_check_mark: **RAG Project using Ollama:**
 https://github.com/nepomucenoc/poc_ollama_rag
 
+:white_check_mark: **Translate Azure:**
+https://github.com/nepomucenoc/translate-azure
+
 :white_check_mark: **GCP DevOps Project:**
 https://github.com/nepomucenoc/gcp-devops-project
 
