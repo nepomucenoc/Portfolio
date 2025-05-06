@@ -1,4 +1,4 @@
-![Foto de fundo geométrico para banner de Linkedin](https://github.com/user-attachments/assets/9e34a598-685d-4a06-97b8-5c4390a6691b)
+![1745419651184](https://github.com/user-attachments/assets/a5bd879a-09dd-46bd-a4c5-314bc17d55e5)
 
 <sub>Ms Modeling and Quantitative Methods at the Federal University of Ceara - UFC</sub>
 
